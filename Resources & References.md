@@ -33,6 +33,6 @@ The project files can be accessed from the link below:
 ### Climate Data and Visual Representation
 
 - [Weather and Climate Data - Assam, India](https://weatherandclimate.com/india/assam/locations) - Regional climate information for study area
-- (https://timesofindia.indiatimes.com/)
-- (https://www.thehindu.com/)
+- (https://timesofindia.indiatimes.com/) - The Times of India
+- (https://www.thehindu.com/) - The Hindu
 ---
