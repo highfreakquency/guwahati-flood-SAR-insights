@@ -35,7 +35,3 @@ The project files can be accessed from the link below:
 - [Weather and Climate Data - Assam, India](https://weatherandclimate.com/india/assam/locations) - Regional climate information for study area
 
 ---
-
-## 🙏 Acknowledgments
-
-This project utilizes data and resources from NASA, ESA, and other scientific organizations dedicated to Earth observation and flood monitoring research.
