@@ -48,10 +48,6 @@ Clayey and alluvial soils influence retention and waterlogging; combining soil, 
 - Educational demos linking land composition and flood dynamics.
 - Planning workshops to prioritize mitigation with stakeholders.
 
-## License
-
-Use, modify, and adapt for research, education, and planning contexts; please attribute project structure and interaction design in derivatives.
-
 ## Acknowledgments
 
 Built on Leaflet and OpenStreetMap data with an emphasis on storytelling from imagery to soil to on‑the‑ground impacts for resilient planning in Assam’s flood‑prone corridor.
