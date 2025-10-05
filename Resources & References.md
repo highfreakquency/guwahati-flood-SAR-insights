@@ -30,8 +30,9 @@ The project files can be accessed from the link below:
 
 - [SNAP (Sentinel Application Platform)](https://step.esa.int/main/toolboxes/snap/) - ESA's toolbox for processing SAR and optical data
 
-### Climate Data
+### Climate Data and Visual Representation
 
 - [Weather and Climate Data - Assam, India](https://weatherandclimate.com/india/assam/locations) - Regional climate information for study area
-
+- (https://timesofindia.indiatimes.com/)
+- (https://www.thehindu.com/)
 ---
